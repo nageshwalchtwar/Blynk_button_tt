@@ -1,1 +1,40 @@
-
+# Blynk_usageBtn_check
+In this we was having the issue of the blynk IoT app usage button continuosly on. To resolve that , this script notes every event timestamp.
+- Button Usage pressed at: 2023-08-08 16:35:52
+- Experiment is not in use at: 2023-08-08 16:35:53
+- Button Usage pressed at: 2023-08-08 16:35:55
+- Experiment is not in use at: 2023-08-08 16:35:56
+- Button Usage pressed at: 2023-08-08 16:35:59
+- Experiment is not in use at: 2023-08-08 16:36:05
+- Button Usage pressed at: 2023-08-08 16:36:08
+- Experiment is not in use at: 2023-08-08 16:36:19
+- Button Usage pressed at: 2023-08-08 16:36:22
+- Experiment is not in use at: 2023-08-08 16:36:24
+- Button Usage pressed at: 2023-08-08 16:40:15
+- Experiment is not in use at: 2023-08-08 16:40:21
+- Button Usage pressed at: 2023-08-08 16:40:24
+- Experiment is not in use at: 2023-08-08 16:40:27
+- Button Usage pressed at: 2023-08-08 17:51:17
+- Experiment is not in use at: 2023-08-08 17:52:13
+- Button Usage pressed at: 2023-08-14 12:42:02
+- Experiment is not in use at: 2023-08-14 12:42:08
+- Button Usage pressed at: 2023-08-14 12:42:22
+- Experiment is not in use at: 2023-08-14 12:42:24
+- Button Usage pressed at: 2023-08-14 12:44:42
+- Experiment is not in use at: 2023-08-14 12:44:48
+- Button Usage pressed at: 2023-08-14 12:52:30
+- Experiment is not in use at: 2023-08-14 12:52:31
+- Button Usage pressed at: 2023-08-14 12:53:32
+- Experiment is not in use at: 2023-08-14 12:53:45
+- Button Usage pressed at: 2023-08-14 13:14:24
+- Experiment is not in use at: 2023-08-14 13:14:25
+- Button Usage pressed at: 2023-08-14 13:45:25
+- Experiment is not in use at: 2023-08-14 13:46:19
+- Button Usage pressed at: 2023-08-14 14:42:45
+- Experiment is not in use at: 2023-08-14 14:43:39
+- Button Usage pressed at: 2023-08-14 15:43:11
+- Experiment is not in use at: 2023-08-14 15:44:05
+- Button Usage pressed at: 2023-08-14 16:25:11
+- Experiment is not in use at: 2023-08-14 16:25:16
+- Button Usage pressed at: 2023-08-14 16:41:05
+- Experiment is not in use at: 2023-08-14 16:42:00
