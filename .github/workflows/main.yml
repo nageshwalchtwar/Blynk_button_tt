@@ -25,7 +25,7 @@ jobs:
         
       - name: Installing all necessary packages
         run: |
-          pip install requests time smtplib os firebase-admin
+          pip install request time smtplib os firebase-admin
 
  
 
