@@ -1,11 +1,3 @@
-name: Run Selenium On GitHub Action
-
-on:
-  workflow_dispatch:
-    # You can keep this line if you want to run the workflow on schedule
-    # schedule:
-    #   - cron: '0 * * * *'
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -21,7 +13,7 @@ jobs:
 
       - name: Installing necessary packages
         run: |
-          pip install requests smtplib firebase-admin
+          pip install requests firebase-admin
 
       - name: Running the blynk
         run: python Blynk_RTL.py
