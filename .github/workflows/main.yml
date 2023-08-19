@@ -1,0 +1,36 @@
+name: Run Selenium On GitHub Action
+
+# on:
+#   schedule:
+#     - cron: '0 * * * *' 
+
+on:
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checking out repo
+        uses: actions/checkout@v3
+
+      - name: Setting up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+
+
+        
+      - name: Installing all necessary packages
+        run: |
+          pip install requests time smtplib os firebase-admin
+
+ 
+
+
+
+      - name: Running the blynk
+        run: python Blynk_RTL.py
+        
